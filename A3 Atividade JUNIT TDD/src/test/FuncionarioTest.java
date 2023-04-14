@@ -1,5 +1,6 @@
 package test;
 
+import entity.Funcionario;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
